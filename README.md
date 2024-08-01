@@ -34,7 +34,7 @@ The concept utilized to make this knowledge base possible come from serveral sou
 
 - Justin Sung's Studying and time management course at iCanStudy
 - Jon & Missy Butcher's Lifebook - Design Your Ideal Life course at Mindvalley
-- Excalidraw & Excalibrain Obsidian plugin utilization by Zsolt's Visual Personal Knowledge Management on Youtube
+- Excalidraw & Excalibrain plugin by Zsolt's Visual Personal Knowledge Management on Youtube
 - Chinese mythology related to Yuanshi Tianzun
 - Obsidian sync through Obsidian Git plugin
 
