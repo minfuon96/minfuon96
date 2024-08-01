@@ -1,6 +1,6 @@
 I'm a devotee of truth.
 
-I beleive that the traditional way of architecturing a knowledge base has many flaws, so I'm building a brand new infastructure called 'Primordial Heavenly Scripture' based on how Yuanshi Tianzun - an omnipotent, omniscient, and omnipresent god - perceive the universe.
+I believe that the traditional way of architecturing a knowledge base has many flaws, so I'm building a brand new infastructure called 'Primordial Heavenly Scripture' based on how Yuanshi Tianzun - an omnipotent, omniscient, and omnipresent god - perceive the universe.
 
 My knowledge base cover all 12 aspects of my life:
 
