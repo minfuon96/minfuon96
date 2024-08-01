@@ -28,7 +28,7 @@ Within this knowledge base, I implement several tools and concepts to making my 
 - Excalibrain plugin
 - Git plugin
 - Dataview plugin
-- Reminders - macOS built-in notetaking app
+- Reminders - macOS built-in to-do app
 
 The concept utilized to make this knowledge base possible come from serveral sources:
 
