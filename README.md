@@ -23,6 +23,7 @@ Within this knowledge base, I implement several tools and concepts to making my 
 
 - Obsidian desktop app - primary markdown notetaking tool
 - Notion web app - strutural cloud storage for multi-media resources
+- Mega - semi-structural cloud storage for multi-media resources
 - GitHub - host my sync notes through Obsidian Git plugin
 - Excalidraw plugin
 - Excalibrain plugin
