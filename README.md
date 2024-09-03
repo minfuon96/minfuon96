@@ -39,10 +39,10 @@ The concept utilized to make this knowledge base possible come from serveral sou
 - Chinese mythology related to Yuanshi Tianzun
 - Obsidian sync through Obsidian Git plugin
 
-Only the ones who can detect my password database and crack through the cryptographic behind it can have access to my version of 'Primordial Heavenly Scripture.'
+Only the ones who can unravel my password database and crack through the cryptographic behind it can have access to my version of 'Primordial Heavenly Scripture.'
 
 Or you can just build your own version of it.
 
 Each and every individuals who cultivate 'Primordial Heavenly Scripture' will create a different version of it, that's because we're just mortal with limited resources and time, so in other word we're only getting a fraction of it. The only person who got access to the full version of 'Primordial Heavenly Scripture' is Yuanshi Tianzun himself, who is an omniscient god.
 
-P/S: A bit about myself, I'm a Vietnamese grown up in Vietnam, fluent in English with Vietnamese as my mother tongue, I dropped out of univerity after the first year, and I have a strong belief in self-education and self-learning. I'm an ambitous man, wanting to become a/an Swift/iOS developer, a cryptocurrency investor, a Forex trader, a copywriter, an entrepreneur, a content creator, a good husband, and a loving father. I want to spent my life fulfilling those dreams, but there's apparently a very steep learning curve standing in between me and those dreams, that's why I'm now contantly improving my learning skills all while working my way up the ladder
+P/S: A bit about myself, I'm a Vietnamese grown up in Vietnam, fluent in English with Vietnamese as my mother tongue, I dropped out of univerity after the first year, and I have a strong belief in self-education and self-learning. I'm an ambitous man, wanting to become a/an Swift/iOS developer, a cryptocurrency investor, a Forex trader, a copywriter, an entrepreneur, a content creator, a good husband, and a loving father. I want to spend my life fulfilling those dreams, but there's apparently a very steep learning curve standing in between me and those dreams, and so this 'Primordial Heavenly Scripture' will be some sort of diary for my journey ahead.
